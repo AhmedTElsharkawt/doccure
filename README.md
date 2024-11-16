@@ -13,7 +13,7 @@ This project is a website that allows users to search for the appropriate doctor
 - Easy dashboard
 
 
-## Getting start
+## Getting started
 
 - First download the project code
 - Rename and edit .env example file 
