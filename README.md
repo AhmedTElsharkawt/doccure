@@ -15,9 +15,10 @@ This project is a website that allows users to search for the appropriate doctor
 
 ## Getting started
 
-- First download the project code
-- Rename and edit .env example file 
+- First download the project code.
+- Rename and edit .env example file.
+- Generate your application encryption key using php artisan key:generate.
 - Download vendor files, open terminal and run this command "composer install" instead of "composer update" to avoid errors.
-- Youn can accsess to admin dashboard by entering admin credentials in patints login
+- Youn can accsess to admin dashboard by entering admin credentials in patints login.
 - Admin email is: admin@g.com
 - Admin password is: 123456789
