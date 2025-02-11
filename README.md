@@ -17,8 +17,9 @@ This project is a website that allows users to search for the appropriate doctor
 
 - First download the project code.
 - Rename and edit .env example file.
-- Generate your application encryption key using php artisan key:generate.
 - Download vendor files, open terminal and run this command "composer install" instead of "composer update" to avoid errors.
+- upload the database file its name is doccuresharkawy.sql
+- Generate your application encryption key using php artisan key:generate.
 - Youn can accsess to admin dashboard by entering admin credentials in patints login.
 - Admin email is: admin@g.com
 - Admin password is: 123456789
